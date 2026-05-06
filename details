@@ -1,0 +1,285 @@
+Good — this is the point where FrankEdge stops being “a folder structure” and becomes a **real product experience**.
+
+I’ll map this as:
+
+1. 🧭 Sitemap (how everything is organized)
+2. 🔄 UX Flow (how a user moves through the system)
+3. 🎯 MVP path (what actually matters at launch)
+
+---
+
+# 🧭 1. FRANKEdge SITEMAP (FULL STRUCTURE)
+
+## 🌐 PUBLIC / MARKETING AREA
+
+```
+/
+├── Landing Page
+├── Pricing (Plans: Daily / Weekly / Monthly / Yearly UGX)
+├── How It Works
+├── Login
+├── Register
+```
+
+---
+
+## 👤 AUTH SYSTEM
+
+```
+/auth
+├── Login
+├── Register
+├── Forgot Password
+```
+
+---
+
+## 📊 USER DASHBOARD (CORE PRODUCT)
+
+```
+/dashboard
+├── Overview (main stats)
+├── Filtered Games
+│   ├── Basic View
+│   ├── Premium View
+│   ├── Pro View
+│   ├── VIP View
+│
+├── Live Odds
+├── Confidence View (🟢🟡🔴 system)
+├── AI Insights
+│   ├── Match explanations
+│   ├── Daily summaries
+│
+├── ROI Performance
+│   ├── Win/Loss stats
+│   ├── Profit in UGX
+│   ├── ROI %
+│
+├── Subscription
+│   ├── Plan selection
+│   ├── Upgrade/Downgrade
+│
+├── Payments
+│   ├── Checkout
+│   ├── Success
+│   ├── Failed
+```
+
+---
+
+## 🧠 INTELLIGENCE LAYER (USER-FACING FEATURES)
+
+```
+/insights
+├── AI Match Explanation
+├── Game Confidence Breakdown
+├── Filtering Transparency (why games were selected)
+```
+
+---
+
+## ⚙️ ADMIN PANEL
+
+```
+/admin
+├── Dashboard
+├── Users Management
+├── Plans Management
+├── Matches Management
+├── Odds Monitoring
+├── Filtering Rules Engine
+├── AI Control Panel
+├── Billing & Revenue
+├── ROI Analytics
+├── Risk Monitoring
+├── API Logs
+```
+
+---
+
+## 📡 SYSTEM / BACKEND (NOT USER-FACING)
+
+```
+/system
+├── Logs
+├── Cache Control
+├── Cron Jobs Status
+├── API Integrations
+```
+
+---
+
+# 🔄 2. UX FLOW (HOW USERS ACTUALLY MOVE)
+
+This is the MOST important part.
+
+---
+
+## 🚀 STEP 1: USER ENTRY
+
+```
+Landing Page
+   ↓
+View Plans
+   ↓
+Register
+   ↓
+Login
+```
+
+---
+
+## 💳 STEP 2: SUBSCRIPTION
+
+```
+Choose Plan (Basic / Premium / Pro / VIP)
+   ↓
+Select Duration (Daily / Weekly / Monthly / Yearly)
+   ↓
+Pay (UGX)
+   ↓
+Activate Account
+```
+
+---
+
+## 📊 STEP 3: MAIN EXPERIENCE (CORE FLOW)
+
+```
+Dashboard Overview
+   ↓
+Filtered Games (based on plan)
+   ↓
+User selects games
+   ↓
+AI shows explanation ("why this game is selected")
+   ↓
+Confidence shown (🟢🟡🔴)
+   ↓
+User decides to follow picks
+```
+
+---
+
+## 🧠 STEP 4: AI + TRUST FLOW
+
+```
+Game shown
+   ↓
+AI Explanation loads:
+   - Why selected
+   - Risk level
+   - Market stability
+   ↓
+User trust increases
+```
+
+---
+
+## 📈 STEP 5: PERFORMANCE FLOW (RETENTION ENGINE)
+
+```
+Matches finish
+   ↓
+System updates results
+   ↓
+ROI dashboard updates
+   ↓
+User sees:
+   - Profit/Loss (UGX)
+   - Win rate
+   - Performance per plan
+```
+
+---
+
+## 🔁 STEP 6: RETENTION LOOP
+
+```
+User checks ROI
+   ↓
+Sees profit or improvement
+   ↓
+Stays or upgrades plan
+   ↓
+Returns daily for new picks
+```
+
+---
+
+# 🎯 3. MVP FLOW (WHAT YOU BUILD FIRST)
+
+If you want to launch fast, ignore everything else and build ONLY:
+
+## 🟢 PHASE 1 (MVP CORE)
+
+* Landing page
+* Login/Register
+* Subscription (UGX plans)
+* Filtered games page
+* Basic confidence system
+* Payment integration
+* Simple ROI view
+
+---
+
+## 🟡 PHASE 2
+
+* AI explanations
+* Advanced filtering engine
+* Admin dashboard
+* Risk system
+
+---
+
+## 🔴 PHASE 3
+
+* Full analytics
+* Behavior tracking
+* AI optimization
+* Scaling features
+
+---
+
+# 🧠 FINAL UX SUMMARY (VERY IMPORTANT)
+
+FrankEdge user journey is:
+
+```
+Marketing → Payment → Dashboard → Filtered Games → AI Explanation → ROI Feedback → Retention
+```
+
+That is your entire business model.
+
+---
+
+# ⚠️ CRITICAL INSIGHT
+
+Your system is NOT a betting site.
+
+It is:
+
+> “A decision intelligence platform for sports predictions with subscription access and performance tracking”
+
+That positioning is what makes it scalable.
+
+---
+
+# 🚀 NEXT STEP (RECOMMENDED)
+
+I can now help you design:
+
+### 🔥 1. Full dashboard UI layout (wireframe)
+
+### 🔥 2. Landing page that converts users (very important)
+
+### 🔥 3. Exact MVP build checklist (step-by-step coding order)
+
+### 🔥 4. Database ERD diagram (clean structure for MySQL)
+
+Just say:
+
+> “design UI wireframes”
+
+and I’ll draw the full system screens for FrankEdge.
